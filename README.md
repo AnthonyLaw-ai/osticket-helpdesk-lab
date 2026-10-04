@@ -74,7 +74,31 @@ Print jobs remained stuck in the queue while other employees could print normall
 
 ## Evidence
 
-Screenshots from the build and ticket workflows are being organised under the `evidence/` directory. Evidence will show the setup, agent configuration, ticket queues, troubleshooting notes, and completed ticket lifecycles.
+The screenshots below document key stages of the lab from installation through ticket handling.
+
+### 1. osTicket Installation
+
+![osTicket installation](evidence/01-osticket-installation.jpeg)
+
+### 2. Agent Access Configuration
+
+The Support department and agent access role were configured to demonstrate help desk permissions and role-based access.
+
+![Agent access configuration](evidence/02-agent-access-configuration.jpeg)
+
+### 3. Ticket Creation Workflow
+
+Tickets were logged with source, help topic, department, SLA, assignee, issue summary, priority, and an initial user-facing response.
+
+![Ticket creation workflow](evidence/03-ticket-creation-workflow.jpeg)
+
+### 4. Ticket Investigation and Documentation
+
+Internal notes were used to document investigation and corrective actions while customer-facing replies kept the user informed.
+
+![Account access ticket thread](evidence/04-account-access-ticket-thread.jpeg)
+
+Additional screenshots are stored in the `evidence/` directory.
 
 ## What I Learned
 
