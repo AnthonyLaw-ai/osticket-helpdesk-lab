@@ -74,9 +74,37 @@ Print jobs remained stuck in the queue while other employees could print normall
 
 ## Evidence
 
-The ticket scenarios and troubleshooting workflows are documented in detail in `docs/ticket-scenarios.md`.
+The screenshots below document key stages of the local osTicket lab.
 
-Screenshots have been intentionally omitted because the original captures were not clear enough for a professional portfolio. The repository focuses on accurate written documentation of the lab configuration, support process, troubleshooting steps, and outcomes.
+### Installation
+
+![osTicket installation](evidence/01-installation-in-progress.jpg)
+
+### Account Lockout Investigation
+
+This ticket demonstrates troubleshooting and internal documentation for a simulated account lockout scenario.
+
+![Account lockout investigation](evidence/02-account-lockout-investigation.jpg)
+
+### Wi-Fi Support Ticket
+
+This example shows the initial user-facing acknowledgement for a simulated Wi-Fi connectivity incident.
+
+![Wi-Fi ticket acknowledgement](evidence/03-wifi-ticket-acknowledgement.jpg)
+
+### Microsoft Outlook Ticket
+
+This screenshot documents the Outlook startup issue used for the simulated application-support scenario.
+
+![Outlook ticket details](evidence/04-outlook-ticket-details.jpg)
+
+### Agent Access Configuration
+
+This shows agent access and role configuration within the osTicket administration interface.
+
+![Agent access configuration](evidence/05-agent-access-configuration.jpg)
+
+Additional ticket lifecycle evidence will continue to be organised in the `evidence/` directory.
 
 ## What I Learned
 
