@@ -1,15 +1,11 @@
 # Evidence
 
-This directory contains screenshots from the local osTicket help desk lab.
+The original screenshots from this lab were removed because they were not clear enough for a professional portfolio.
 
-The evidence is organised to show the project lifecycle, including:
+The project evidence is therefore documented in text through:
 
-- osTicket installation and local configuration
-- database and privilege setup
-- agent and department configuration
-- ticket creation and assignment
-- internal troubleshooting notes
-- customer-facing responses
-- resolved and closed tickets
+- the main `README.md`
+- `docs/ticket-scenarios.md`
+- the recorded lab configuration, troubleshooting steps, user communication, and ticket outcomes
 
 All ticket scenarios are simulated for training and portfolio purposes.
