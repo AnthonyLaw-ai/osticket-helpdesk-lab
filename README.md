@@ -1,6 +1,19 @@
 # osTicket Help Desk Lab
 
-A hands-on IT support lab built with **osTicket** to simulate a small help desk environment and document realistic ticket-handling workflows from intake through resolution and closure.
+A practical IT support portfolio project using **osTicket** to simulate a small help desk environment and demonstrate the full support lifecycle from ticket intake through troubleshooting, communication, resolution, and closure.
+
+## Project Highlights
+
+- Built and configured a local osTicket help desk environment
+- Created users, agents, departments, roles, priorities, and SLA handling
+- Worked through **5 realistic support scenarios**
+- Practised ticket triage, assignment, troubleshooting, internal notes, user communication, and closure
+- Documented evidence for account access, account lockout, Wi-Fi, Outlook, and printer issues
+- Demonstrated entry-level **Help Desk / IT Support** workflow and documentation skills
+
+## Key Skills
+
+**osTicket · Ticket Management · Troubleshooting · SLA Awareness · User Support · Windows Support · Wi-Fi · Microsoft Outlook · Print Spooler · Technical Documentation · Customer Communication**
 
 > **Lab scope:** The users, incidents, troubleshooting actions, and resolutions in this repository are simulated training scenarios created in a local lab environment. They are not records from a real employer or production help desk.
 
