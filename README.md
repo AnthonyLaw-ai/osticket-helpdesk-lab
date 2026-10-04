@@ -74,37 +74,45 @@ Print jobs remained stuck in the queue while other employees could print normall
 
 ## Evidence
 
-The screenshots below document key stages of the local osTicket lab.
+The screenshots below document the project from initial setup through ticket handling, troubleshooting, and closure.
 
-### Installation
+### 1. osTicket Installation
 
-![osTicket installation](evidence/01-installation-in-progress.jpg)
+![osTicket basic installation](evidence/01-osticket-basic-installation.jpeg)
 
-### Account Lockout Investigation
+### 2. Agent Access Configuration
 
-This ticket demonstrates troubleshooting and internal documentation for a simulated account lockout scenario.
+![Agent access configuration](evidence/02-agent-access-configuration.jpeg)
 
-![Account lockout investigation](evidence/02-account-lockout-investigation.jpg)
+### 3. Ticket Creation Workflow
 
-### Wi-Fi Support Ticket
+![Ticket creation workflow](evidence/03-ticket-creation-workflow.jpeg)
 
-This example shows the initial user-facing acknowledgement for a simulated Wi-Fi connectivity incident.
+### 4. Account Access Ticket Workflow
 
-![Wi-Fi ticket acknowledgement](evidence/03-wifi-ticket-acknowledgement.jpg)
+![Account access ticket thread](evidence/04-account-access-ticket-thread.jpeg)
 
-### Microsoft Outlook Ticket
+### 5. Outlook Application Investigation
 
-This screenshot documents the Outlook startup issue used for the simulated application-support scenario.
+![Outlook application investigation](evidence/05-outlook-application-investigation.jpeg)
 
-![Outlook ticket details](evidence/04-outlook-ticket-details.jpg)
+### 6. Wi-Fi Connectivity Resolution
 
-### Agent Access Configuration
+![Wi-Fi connectivity resolution](evidence/06-wifi-connectivity-resolution.jpeg)
 
-This shows agent access and role configuration within the osTicket administration interface.
+### 7. Account Lockout Investigation
 
-![Agent access configuration](evidence/05-agent-access-configuration.jpg)
+![Account lockout investigation](evidence/07-account-lockout-investigation.jpeg)
 
-Additional ticket lifecycle evidence will continue to be organised in the `evidence/` directory.
+### 8. Network Printer Troubleshooting
+
+![Network printer troubleshooting](evidence/08-network-printer-troubleshooting.jpeg)
+
+### 9. Closed Tickets Overview
+
+![Closed tickets overview](evidence/09-closed-tickets-overview.jpeg)
+
+For a concise written summary of the support scenarios, see `docs/ticket-scenarios.md`.
 
 ## What I Learned
 
